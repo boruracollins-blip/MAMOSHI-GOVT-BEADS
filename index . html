@@ -4,17 +4,15 @@
   <meta charset="UTF-8">
   <title>Mamoshigovt Beads</title>
   <link rel="stylesheet" href="style.css">
-  <meta name="description" content="Buy beads Kenya - Handmade bead designs crafted with love from Mwihoko, Kiambu County. Local delivery and M-Pesa payment available.">
-  <meta name="keywords" content="buy beads Kenya, handmade beads, bead art, Kiambu beads, Mamoshigovt beads">
 </head>
 <body>
   <header>
     <h1>Mamoshigovt Beads</h1>
     <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="gallery.html">Gallery</a>
-      <a href="contact.html">Contact</a>
+      <a href="#catalog">Catalog</a>
+      <a href="#about">About</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#contact">Contact</a>
     </nav>
   </header>
 
@@ -22,6 +20,30 @@
     <section id="catalog">
       <h2>Catalog</h2>
       <p>Explore our handmade bead necklaces, bracelets, and cultural designs.</p>
+    </section>
+
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Mamoshigovt beads brings you handmade bead designs crafted with love from Mwihoko, Kiambu County.</p>
+    </section>
+
+    <section id="gallery">
+      <h2>Gallery</h2>
+      <div class="gallery">
+        <img src="images/bead1.jpg" alt="Bead necklace">
+        <img src="images/bead2.jpg" alt="Bead bracelet">
+        <img src="images/bead3.jpg" alt="Traditional bead design">
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:boruracollins@gmali.com">boruracollins@gmali.com</a></p>
+      <p>WhatsApp: <a href="https://wa.me/254791419415">0791419415</a></p>
+      <p>Instagram: <a href="https://www.instagram.com/bead_art.kenya">bead_art.kenya</a></p>
+      <p>TikTok: <a href="https://vm.tiktok.com/ZS9YQpfT9S5Yy-MMYz9/">@bead_art.kenya</a></p>
+      <p>Location: Mwihoko, Kiambu County</p>
+      <p>Payment: M‑Pesa <strong>0791419415</strong></p>
     </section>
   </main>
 </body>
